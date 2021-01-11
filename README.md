@@ -11,7 +11,7 @@ PIMA Indians Diabetes Database: https://www.kaggle.com/uciml/pima-indians-diabet
 
 UCI Diabetes Dataset: https://archive.ics.uci.edu/ml/datasets/diabetes
 
-#Diabetes-Tracker-App
+# Diabetes-Tracker-App
 
 This will be a Flutter App leveraging the ML Models created and integrating it in the app.
 
