@@ -27,9 +27,9 @@ Base App is uploaded.
  1. Fork this Repository.
  2. Select an issue on which you want to work. Discuss with the mentors.
  3. Whenever submitting a Pull Request or adding a feature first create a seperate branch using
-    'git checkout -b <name-of-the-new-branch>'
+    `git checkout -b <name-of-the-new-branch>`
  4. To commit changes:
-    'git commit -m "<a meaningful message>'
+    `git commit -m "<a meaningful message>`
  5. To push the changes:
-    'git push origin <your-branch-name>'
+    `git push origin <your-branch-name>`
  6. Create a Pull Request on the Repository and we will review it.
