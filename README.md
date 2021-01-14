@@ -30,6 +30,10 @@ Base App is uploaded.
     `git checkout -b <name-of-the-new-branch>`
  4. To commit changes:
     `git commit -m "<a meaningful message>`
- 5. To push the changes:
+ 5. Before pushing your changes always make sure your local repository is updated.
+      `git fetch origin`
+      `git merge origin`
+ 6. If there are merge conflicts resolve them and then push changes.
+ 7. To push the changes:
     `git push origin <your-branch-name>`
- 6. Create a Pull Request on the Repository and we will review it.
+ 8. Create a Pull Request on the Repository and we will review it.
